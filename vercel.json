@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/grade-page.js": {
+      "maxDuration": 30
+    }
+  }
+}
